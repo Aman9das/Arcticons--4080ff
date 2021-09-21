@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+        <style>.a{fill:none;stroke:#4080ff;stroke-linecap:round;stroke-linejoin:round;}</style>
     </defs>
     <rect class="a" transform="translate(-14.79 35.706) rotate(-45)" x="33.375" y="28.428" width="4.6607" height="14.556"/>
     <circle class="a" cx="19.191" cy="19.19" r="13.691"/>

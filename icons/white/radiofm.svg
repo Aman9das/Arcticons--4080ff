@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.a,.b{fill:none;stroke:#fff;}.a{stroke-linecap:round;stroke-linejoin:round;}.b{stroke-miterlimit:10;}.c{fill:#fff;}</style>
+        <style>.a,.b{fill:none;stroke:#4080ff;}.a{stroke-linecap:round;stroke-linejoin:round;}.b{stroke-miterlimit:10;}.c{fill:#4080ff;}</style>
     </defs>
     <rect class="a" x="5.5" y="5.5" width="37" height="37" rx="2"/>
     <line class="a" x1="5.5" x2="42.5" y1="24" y2="24"/>

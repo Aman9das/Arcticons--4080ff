@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+        <style>.a{fill:none;stroke:#4080ff;stroke-linecap:round;stroke-linejoin:round;}</style>
     </defs>
     <circle class="a" cx="23.024" cy="18.143" r="5.8571"/>
     <path class="a" d="m17.169 17.551a5.857 5.857 0 1 1 0.46-1.7848"/>

@@ -2,7 +2,7 @@
 
 sh whiteold.sh
 sh rasterdark.sh
-sh rasterlight.sh
+# sh rasterlight.sh
 
 for DIR in $(find -name "*.svg")
 do

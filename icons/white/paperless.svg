@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+        <style>.a{fill:none;stroke:#4080ff;stroke-linecap:round;stroke-linejoin:round;}</style>
     </defs>
     <path class="a" d="m14.461 40.263q-9.8346-3.8767-7.3181-17.793c3.3434 6.3844 14.023 10.155 7.3181 17.793z"/>
     <path class="a" d="m14.461 40.263a6.388 6.388 0 0 1 1.6253 2.586"/>

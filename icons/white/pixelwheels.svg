@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+        <style>.a{fill:none;stroke:#4080ff;stroke-linecap:round;stroke-linejoin:round;}</style>
     </defs>
     <rect class="a" transform="translate(24 -9.9411) rotate(45)" x="14.538" y="5.461" width="18.925" height="37.078" rx=".7242"/>
     <path class="a" d="m19.42 41.962a1.3806 1.3806 0 0 0 1.9527 0l3.5609-3.5608a1.3808 1.3808 0 0 0 0-1.9527"/>
