@@ -30,7 +30,8 @@ android {
     productFlavors {
         dark {
             dimension "variant"
-            resValue "string", "app_name", "Arcticons Dark"
+            applicationIdSuffix '.color4080ff'
+            resValue "string", "app_name", "Arcticons #4080ff"
         }
         light {
             dimension "variant"
